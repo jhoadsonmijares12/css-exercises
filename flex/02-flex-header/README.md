@@ -18,3 +18,12 @@ wide:
 - Your solution does not use floats, inline-block, or absolute positioning.
 
 - Note: For this exercise, it's completely acceptable to not match the font-family.
+
+
+- Hay espacio entre todos los elementos y el borde del encabezado (la cantidad específica de px no importa aquí).
+- El logotipo está centrado vertical y horizontalmente.
+- Los elementos de la lista son horizontales y están centrados verticalmente dentro del encabezado.
+- Los enlaces izquierdo y derecho se desplazan completamente hacia la izquierda y hacia la derecha, y permanecen en el borde del encabezado cuando se cambia el tamaño de la página.
+- Su solución no utiliza flotadores, bloques en línea ni posicionamiento absoluto.
+
+- Nota: Para este ejercicio, es completamente aceptable no coincidir con la familia de fuentes.

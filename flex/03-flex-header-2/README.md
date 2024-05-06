@@ -19,3 +19,11 @@ As with the last example, this one needs to be flexible in the middle, with item
 - Items are arranged horizontally as seen in the outcome image.
 - There is 16px between each item on both sides of the header.
 - flex is used to arrange everything.
+
+
+
+- Todo está centrado verticalmente dentro del encabezado.
+- Hay un espacio de 8px entre todo y el borde del encabezado.
+- Los elementos están dispuestos horizontalmente como se ve en la imagen final.
+- Hay 16 píxeles entre cada elemento a ambos lados del encabezado.
+- flex se usa para organizar todo.
